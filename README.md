@@ -9,7 +9,7 @@ Os membros da comunidade têm acesso às discussões e aos conteúdos importante
 ## Missão
 Temos a missão de apoiar profissionais de diversos níveis que buscam se desenvolver na área de DevSecOps e AppSec, com ênfase nessas abordagens para manter ciclos rápidos de lançamento de software sem deixar de lado a segurança.
 
-Somos uma rede de apoio engajada, com excelentes profissionais da área para guiar discussões e construir o futuro da segurança das aplicações.
+Somos uma rede de apoio engajada, com profissionais da área para guiar discussões e construir o futuro da segurança das aplicações.
 
 Junte-se a nossa comunidade para ampliar seu conhecimento e compartilhar suas experiências sobre DevSecOps, acessando esse link no slack.
 
