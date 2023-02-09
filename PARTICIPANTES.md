@@ -14,3 +14,4 @@ Ao adicionar o seu nome, por favor observe:
 | Nome                           | Email                                   | Github Page                               |
 | ------------------------------ | --------------------------------------- | ----------------------------------------- |
 | Gabriel Galdino                | gabrielgaldinogomes@gmail.com           | https://github.com/gabogaldino            |
+| Bruno Martins                  | bruno.esmartins@owasp.org               | https://github.com/brunoesm07             |
